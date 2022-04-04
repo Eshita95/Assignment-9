@@ -1,0 +1,39 @@
+[
+    {
+      "id": "1",
+      "name": "Linda",
+      "reviwe": "Welcome to Makeup and Beauty Blog! My name is Linda, and Im a freelance writer obsessed with makeup.Makeup and Beauty Blog features daily product reviews, makeup tips and beauty news — like an interactive version of a monthly print magazine, except with occasional pictures of my cat.",
+      "img": "https://yt3.ggpht.com/ytc/AKedOLTXWvuHEzgPUb5oe_E2dRKDWI2GZGg3TRjWPqpAfA=s900-c-k-c0x00ffffff-no-rj"
+      
+    },
+    {
+      "id": "2",
+      "name": "Sania",
+      "reviwe": "Welcome to Makeup and Beauty Blog! My name is Sannia, and Im a freelance writer obsessed with makeup.Makeup and Beauty Blog features daily product reviews, makeup tips and beauty news — like an interactive version of a monthly print magazine, except with occasional pictures of my cat.",
+      "rating": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKqqv4HqAtMcZuHZWGFiLUza_Sbdr18UpWpA&usqp=CAU"
+    },
+    {
+      "id": "3",
+      "name": "Afrin",
+      "reviwe": "Welcome to Makeup and Beauty Blog! My name is Afrin, and Im a freelance writer obsessed with makeup.Makeup and Beauty Blog features daily product reviews, makeup tips and beauty news — like an interactive version of a monthly print magazine, except with occasional pictures of my cat.",
+      "img": "https://sanjoyshubro.files.wordpress.com/2017/11/sanjoy-shubro-photography-0042.jpg?w=740"
+    },
+    {
+      "id": "4",
+      "name": "Roja",
+      "reviwe": "Welcome to Makeup and Beauty Blog! My name is Roja, and Im a freelance writer obsessed with makeup.Makeup and Beauty Blog features daily product reviews, makeup tips and beauty news — like an interactive version of a monthly print magazine, except with occasional pictures of my cat.",
+      "img": "https://i.pinimg.com/736x/88/2d/bd/882dbd6d715a6fa50fb42535df3ba898--soft-makeup-hair-makeup.jpg"
+    },
+    {
+      "id": "5",
+      "name": "Umme Habiba",
+      "reviwe": "Welcome to Makeup and Beauty Blog! My name is Umme, and Im a freelance writer obsessed with makeup.Makeup and Beauty Blog features daily product reviews, makeup tips and beauty news — like an interactive version of a monthly print magazine, except with occasional pictures of my cat.",
+      "img": "https://blog.skincareshop.com.bd/wp-content/uploads/2021/09/5-easy-makeup-hacks-to-get-the-perfect-makeup.jpg"
+    },
+    {
+      "id": "6",
+      "name": "Parizaad",
+      "reviwe": "Welcome to Makeup and Beauty Blog! My name is Parizaad, and Im a freelance writer obsessed with makeup.Makeup and Beauty Blog features daily product reviews, makeup tips and beauty news — like an interactive version of a monthly print magazine, except with occasional pictures of my cat.",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlM_9qzAhbE8w_sxnLpdM8J619J6XdYPlzEA&usqp=CAU"
+    }
+  ]

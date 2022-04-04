@@ -1,6 +1,22 @@
-import React from 'react';
+import React, { useEffect} from 'react';
+import {useNavigate } from 'react-router-dom';
+import Hooks from '../../Hooks/Hooks';
+import ReviweDetails from '../ReviweDetails/ReviweDetails';
 
 const Home = () => {
+    const [reviwes, setReviwes] = Hooks([])
+
+    useEffect(() =>{
+        fetch('reviwe.json')
+        .then(res => res.json())
+        .then(data =>setReviwes(data))
+    }, [setReviwes]);
+
+    const navigate = useNavigate()
+    const allReviwes = () =>{
+        navigate('/reviwes')
+    }
+
     return (
         <div>
             <div className='grid md:grid-cols-2 gap-6 mt-8'>
@@ -18,11 +34,11 @@ const Home = () => {
             <div className='container mt-20'>
             <h2 className='text-3xl font-bold bg-cyan-600 text-white justify-center p-2'>Customar Reviwes</h2>
                 <div>
-                    
+                    <ReviweDetails reviwes ={reviwes}></ReviweDetails>
                 </div>
 
                 <div >
-                    <button className='bg-cyan-600 font-bold text-white rounded px-6 py-2'>All Reviwes</button>
+                    <button onClick={allReviwes} className='bg-cyan-600 font-bold text-white rounded px-6 py-2'>All Reviwes</button>
                 </div>
             </div>
         </div>
