@@ -31,13 +31,13 @@ const Home = () => {
                 </div>
 
             </div>
-            <div className='container mt-20'>
+            <div className=' mt-20'>
             <h2 className='text-3xl font-bold bg-cyan-600 text-white justify-center p-2'>Customar Reviwes</h2>
                 <div>
                     <ReviweDetails reviwes ={reviwes}></ReviweDetails>
                 </div>
 
-                <div >
+                <div className='my-8 '>
                     <button onClick={allReviwes} className='bg-cyan-600 font-bold text-white rounded px-6 py-2'>All Reviwes</button>
                 </div>
             </div>
