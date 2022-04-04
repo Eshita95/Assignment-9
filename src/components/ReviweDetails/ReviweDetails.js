@@ -1,7 +1,6 @@
 import React from 'react';
 
-const Reviwes = () => {
-    
+const ReviweDetails = () => {
     return (
         <div>
             
@@ -9,4 +8,4 @@ const Reviwes = () => {
     );
 };
 
-export default Reviwes;
+export default ReviweDetails;
